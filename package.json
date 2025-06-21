@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guadasecco/ada_repo/issues"
   },
-  "homepage": "https://github.com/guadasecco/ada_repo#readme"
+  "homepage": "https://github.com/guadasecco/ada_repo#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

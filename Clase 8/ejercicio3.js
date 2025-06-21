@@ -16,4 +16,4 @@ const primernumero = parseFloat(prompt(`Ingrese el primer numero: `));
 const segundonumero = parseFloat(prompt(`Ingrese el segundo numero: `));
 
 const suma = primernumero + segundonumero;
-    console.log(`La suma de ${primernumero} y ${segundonumero} es: ${suma}`);
+console.log(`La suma de ${primernumero} y ${segundonumero} es: ${suma}`);
